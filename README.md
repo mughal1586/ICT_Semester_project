@@ -26,7 +26,7 @@ The purpose of this website is to provide a simple yet functional example of a p
 
 	**How to Run:
 	1.Download the files form the given link below:
-		
+		https://github.com/nomi2k4/ICT.Project.git
 	2.Open the "index.html" file in your preferred web browser to view the website.
 
 Feel free to contact me if you need any further information or assistance.
